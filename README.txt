@@ -1,0 +1,1 @@
+A simple practice project using firebase and React to create a CRUD app. Followed tutorial by PedroTech on YouTube.
